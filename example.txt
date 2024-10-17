@@ -1,1 +1,1 @@
-"This is an example file." 
+"This is a completely new content for example.txt." 
